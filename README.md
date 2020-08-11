@@ -1,6 +1,6 @@
 # Giveaways Bot
 
-🎁Giveways Bot utilise [discord-giveaways](https://npmjs.com/discord-giveaways) package.
+🎁OttakoGive utilise [discord-giveaways](https://npmjs.com/discord-giveaways) package.
 
 ## Features
 
