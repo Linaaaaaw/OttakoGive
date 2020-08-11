@@ -9,7 +9,7 @@
 * commande `end-giveaway`
 
 <img src='./exemples/start-cmd.png' style="width: 50%;"></img>
-<img src='./exemples/giveaway.PNG' style="width: 50%;"></img>
+<img src='./exemples/giveaway.PNG' style="width: 30%;"></img>
 
 ## Install
 
