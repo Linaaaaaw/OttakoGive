@@ -13,17 +13,17 @@
 
 ## Install
 
-* Fill configuration (config.json):
+* Configuration (config.json):
 ```json
 {
     "token": "Your discord bot token",
-    "prefix": "g!",
+    "prefix": "!",
     "everyoneMention": true,
     "hostedBy": true
 }
 ```
 
-* Install dependencies:
+* Installer les dépendances:
 ```sh
 npm install
 ```
